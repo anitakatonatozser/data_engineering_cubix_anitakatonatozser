@@ -13,3 +13,9 @@ Architecture
         - Extract: Extract data from Chicago Data Portal and Open-Meteo with API.
         - Transform: Clean and transform the data using Python.
         - Load: Load the transformed data into the target destination (S3).
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
